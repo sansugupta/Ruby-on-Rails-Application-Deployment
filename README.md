@@ -4,6 +4,11 @@
 
 This project showcases a full-fledged CI/CD pipeline that automates the build, test, deployment, and management of a Ruby on Rails application with a PostgreSQL database. It emphasizes the integration of various DevOps tools and techniques to achieve a robust and efficient deployment workflow.
 
+## 🔗 Application - Budget App
+Giving you the url of the application repostory where is whole project files its deployment files and application overview and files are stored.
+
+https://github.com/sansugupta/Budget-App
+
 ## 🏗️ Architecture Diagram
 
 ```
