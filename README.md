@@ -222,21 +222,13 @@ kubectl apply -f ingress.yaml
 
 ## 🔗 Repository
 
-[Your GitHub Repository Link]
-
-## 🎬 Video Demo
-
-[Link to Project Demonstration Video]
+[[Your GitHub Repository Link]](https://github.com/sansugupta/Ruby-on-Rails-Application-Deployment)
 
 ## 📬 Contact
 
-* **Name:** [Your Name]
-* **Email:** [Your Email]
-* **LinkedIn:** [Your LinkedIn Profile]
-
-## 📜 License
-
-[Specify License]
+* **Name:** [Sanskar Gupta]
+* **Email:** [Sanskargupta966@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/sanskargupta9/]
 
 ---
 
