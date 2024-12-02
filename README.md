@@ -226,9 +226,9 @@ https://github.com/sansugupta/Ruby-on-Rails-Application-Deployment
 
 ## 📬 Contact
 
-* **Name:** [Sanskar Gupta]
-* **Email:** [Sanskargupta966@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/sanskargupta9/]
+* **Name:** Sanskar Gupta
+* **Email:** Sanskargupta966@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/sanskargupta9/
 
 ---
 
