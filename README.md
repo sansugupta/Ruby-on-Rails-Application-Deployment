@@ -69,7 +69,7 @@ EXPOSE 3000
 CMD ["rails", "server", "-b", "0.0.0.0"]
 ```
 
-Dockerfile.postgres (PostgreSQL Database)
+```Dockerfile.postgres (PostgreSQL Database)
 
 FROM postgres:14
 
@@ -77,6 +77,7 @@ FROM postgres:14
 ENV POSTGRES_USER=myuser
 ENV POSTGRES_PASSWORD=mypassword
 ENV POSTGRES_DB=mydatabase
+```
 
 Kubernetes Manifests
 my-rails-app.yaml (Rails Deployment)
