@@ -69,7 +69,7 @@ EXPOSE 3000
 CMD ["rails", "server", "-b", "0.0.0.0"]
 ```
 
-**Dockerfile.postgres (PostgreSQL Database)**
+### **Dockerfile.postgres (PostgreSQL Database)**
 ```
 FROM postgres:14
 
