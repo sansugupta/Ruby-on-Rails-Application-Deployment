@@ -222,7 +222,7 @@ kubectl apply -f ingress.yaml
 
 ## 🔗 Repository
 
-[(https://github.com/sansugupta/Ruby-on-Rails-Application-Deployment)]
+https://github.com/sansugupta/Ruby-on-Rails-Application-Deployment
 
 ## 📬 Contact
 
